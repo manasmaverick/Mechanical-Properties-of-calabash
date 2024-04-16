@@ -1,1 +1,1 @@
-# Mechanical-Properties-of-calabash
+Mechanical characterization of calabash material, seeking to unravel the structural intricacies and performance metrics that define its mechanical behavior. Calabash has been employed by various cultures for centuries, showcasing its durability and adaptability in crafting utensils, musical instruments, and decorative items.
